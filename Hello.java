@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Hello
 
+    //random comment
 {
     /* This program prints a dialog between the computer and the user.*/
     public static void main(String[] args)
